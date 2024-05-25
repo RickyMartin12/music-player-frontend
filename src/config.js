@@ -1,2 +1,2 @@
-export const baseURL = "https://react-music-frontend-production.up.railway.app";
+export const baseURL = "https://react-music-server-index-pl645sf8l.vercel.app";
 
